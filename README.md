@@ -1,6 +1,5 @@
 GMM | Gorilla Tag Mod Manager
-Standalone mod manager for Gorilla Tag. No install required.
-
+Standalone mod manager for Gorilla Tag.
 Features:
 Browse and install mods directly from GitHub
 Auto-detects your Gorilla Tag plugins folder
