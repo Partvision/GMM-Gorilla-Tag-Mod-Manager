@@ -1,7 +1,7 @@
 GMM | Gorilla Tag Mod Manager  
 
 
-<img src="https://github.com/user-attachments/assets/4a1bd53b-52f0-43d0-93cb-30fc72e67714" width="200"/>
+<img src="https://github.com/user-attachments/assets/4a1bd53b-52f0-43d0-93cb-30fc72e67714" width="400"/>
 
 
 Standalone mod manager for Gorilla Tag.  
@@ -11,7 +11,7 @@ Features:
 - Supports one-click updates and deletions  
 - Categorized mod list with filters and priorities
 
-<img src="https://github.com/user-attachments/assets/f5e94a57-ae9d-4143-bf7a-4cb276b4e571" width="300"/>
+<img src="https://github.com/user-attachments/assets/f5e94a57-ae9d-4143-bf7a-4cb276b4e571" width="400"/>
 
 
 How to Use:
