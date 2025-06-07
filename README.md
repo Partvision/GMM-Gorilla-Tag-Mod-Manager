@@ -1,11 +1,13 @@
-GMM | Gorilla Tag Mod Manager
+GMM | Gorilla Tag Mod Manager  
+<img src="https://github.com/user-attachments/assets/4a1bd53b-52f0-43d0-93cb-30fc72e67714" width="500"/>
 
-Standalone mod manager for Gorilla Tag.
-Features:
-Browse and install mods directly from GitHub
-Auto-detects your Gorilla Tag plugins folder
-Supports one-click updates and deletions
-Categorized mod list with filters and priorities
+Standalone mod manager for Gorilla Tag.  
+Features:  
+- Browse and install mods directly from GitHub  
+- Auto-detects your Gorilla Tag plugins folder  
+- Supports one-click updates and deletions  
+- Categorized mod list with filters and priorities
+
 
 How to Use:
 Download GtagModManager.exe below
