@@ -1,5 +1,8 @@
 GMM | Gorilla Tag Mod Manager  
+
+
 <img src="https://github.com/user-attachments/assets/4a1bd53b-52f0-43d0-93cb-30fc72e67714" width="500"/>
+
 
 Standalone mod manager for Gorilla Tag.  
 Features:  
